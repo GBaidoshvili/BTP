@@ -1,0 +1,280 @@
+<html>
+<head>
+  <meta charset="utf-8">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+<link rel="stylesheet" href="css/bpg-nino-mtavruli.min.css">
+<script src="https://use.fontawesome.com/d49acce013.js"></script>
+     <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header class="header absolute" itemscope="" itemtype="http://schema.org/Organization">
+      <div class="container">
+
+        <!-- ===== LOGO ===== -->
+        <h1 class="logo"><a href="index.html">BTP</a></h1>
+
+ <!--         <h1 class="logo"><a href="index.html"><img itemprop="logo" src="/img/logo.png"></a></h1>
+ -->
+        <!-- ===== NAVIGATION ===== -->
+        <nav class="navigation">
+          <!-- ===== MENU ===== -->
+          <ul class="menu">
+            <li class="menuitem"><a href="index.html">მთავარი</a></li>
+            <li class="menuitem"><a href="podcasts.html">პოდკასტები</a></li>
+            <li class="menuitem active"><a href="about-us.html">ჩვენს შესახებ</a></li>
+            <li class="menuitem"><a href="contact.html">კონტაქტი</a></li>
+          </ul>
+          <!-- ===== HAMBURGUER ICON ===== -->
+          <a href="#" class="btn-hamburguer-menu"><i class="fa fa-bars"></i></a>
+        </nav>
+
+      </div>
+
+    </header>
+    <main id="main" class="main">
+
+        <!-- ===== PAGE HEADER ===== -->
+        <header class="page-header-podcast" style="background-image: url(https://www.wimbledonsound.com/images/SliderImage-Microphone1.jpg)">
+          <div class="page-header-inner">
+            <div class="container">
+
+              <!-- ===== BREADCRUMB ===== -->
+              <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement"><a href="index.html">მთავარი</a></li>
+                <li itemprop="itemListElement"><a href="#">ჩვენს შესახებ</a></li>
+              </ol>
+
+              <!-- ===== PAGE HEADER CONTENT ===== -->
+              <div class="page-header-content text-center">
+                <h1>ჩვენს შესახებ</h1>
+              </div>
+
+            </div>
+          </div>
+        </header>
+        <!-- ===== ABOUT US ===== -->
+        <section id="about-us" class="section-negative">
+          <div class="container">
+
+            <!-- ===== SECTION TITLE ===== -->
+            <br>
+            <p>ლორემ იპსუმ კულტურა კადრები კუდზე ჭირიაო დობინს კუდმოცვეთილი. ძვირფასნი გულგრილობას კორიდაზე სწვდებოდა ვადაში, ჩრდილოს, კომენტარები, უცხოელების თაოსნობა მზეთუნახავიცა კულტურა ყუთს კუდმოცვეთილი მიკ მტკივნეულად. დობინს გადატრიალდებოდა მტკივნეულად ადმიანს კუდმოცვეთილი, დაუსხლტესო, ზარბაზნები გაზაფხულს ჭყლინტმაო, ავტორიტეტების პირუტყვისაგან, მიიღეს, ყურს, ნამდვლად უდებ. შემირჩევდი გადატრიალდებოდა გულგრილობას ჭყლინტმაო, გულისთქმა ჩემხელა ზეციურს მიიღეს ეჩვევიან ოვაციებს.
+
+გელაშვილი ვარდამ ჯოზე ფეხამდინ შემკვრელმა შეგვხედეთ შენიშვნებით ჩაფლობა დავითნის. ინსტრუმენტულ გგომური ვახსენებ დასტოვა ფეხამდინ შენიშვნებით ჯოზე პერანგზედ სალონი შეთვრა ვარდამ. არჩილი შეინახოო ახალშენსა დავცინცლავთ ღარიბ ფაქიზად კვერცხივით მორთულობამ რუსთაველზე გამოგვიყვანეს პერანგზედ ჩინოვნიკებისთვის. გააბათილებინებდა კვერცხივით ჩაიხითხითებდა ათიოდეს მორთულობამ ავირჩიეო იწვნენ, ძებნაც, სიღრმისა, შეწყვეტილა მოღვაწის რადგან ჩაფლობა არისტოკრატულის. პროგრამებსა შთამომავლობას გენდობით სიღრმისა, წაიღებთ, ენატრება მგზავრობისას შეიშვებდნენ, ათად გელაშვილი მწუხარებით შშვილი, გახდება ევროპელი ვახსენებ. შთამომავლობას დამაჯერებლობა გადმოდგება იწვნენ ღარიბ, შემკვრელმა სიღრმისა სარწეველა, შეიშმუშნა გაჭიმული აბავდნენ გამოგვიყვანეს შშვილი. ვახსენებ ბარათებით იწვნენ შვილობილს, საბედნიეროდ გენდობით ციკლი, დასტოვა ფეხამდინ წაიღებთ ნაბოზარი. </p>
+            <h2 class="title-default text-center">ვინ ვართ ჩვენ</h2>
+
+            <div class="row mb-30">
+
+              <!-- ===== TEAM CARD ===== -->
+              <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
+                <div class="team-card">
+                  <figure class="team-card-image"><img src="assets/img/team/team-1.jpg" alt="" title=""></figure>
+                  <div class="team-card-content">
+                    <h2 class="team-card-title">სანდრო ბებურიშვილი</h2>
+                    <p class="team-card-job">რაღაცა</p>
+                    <p class="team-card-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat itaque optio minus perferendis tempora, libero in fugiat, quisquam molestiae.</p>
+                    <ul class="team-card-social">
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- ===== TEAM CARD ===== -->
+              <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
+                <div class="team-card">
+                  <figure class="team-card-image"><img src="assets/img/team/team-2.jpg" alt="" title=""></figure>
+                  <div class="team-card-content">
+                    <h2 class="team-card-title">გიგა ბაიდოშვილი</h2>
+                    <p class="team-card-job">რაღაცა</p>
+                    <p class="team-card-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat itaque optio minus perferendis tempora.</p>
+                    <ul class="team-card-social">
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- ===== TEAM CARD ===== -->
+              <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
+                <div class="team-card">
+                  <figure class="team-card-image"><img src="assets/img/team/team-3.jpg" alt="" title=""></figure>
+                  <div class="team-card-content">
+                    <h2 class="team-card-title">ანა ზურაბაშვილი</h2>
+                    <p class="team-card-job">რაღაცა</p>
+                    <p class="team-card-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat itaque optio minus perferendis tempora, libero in fugiat, quisquam molestiae.</p>
+                    <ul class="team-card-social">
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <!-- ===== TEAM CARD ===== -->
+              <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
+                <div class="team-card">
+                  <figure class="team-card-image"><img src="assets/img/team/team-1.jpg" alt="" title=""></figure>
+                  <div class="team-card-content">
+                    <h2 class="team-card-title">გიორგი სარალიძე</h2>
+                    <p class="team-card-job">რაღაცა</p>
+                    <p class="team-card-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat itaque optio minus perferendis tempora, libero in fugiat, quisquam molestiae.</p>
+                    <ul class="team-card-social">
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <!-- ===== TEAM CARD ===== -->
+              <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
+                <div class="team-card">
+                  <figure class="team-card-image"><img src="assets/img/team/team-1.jpg" alt="" title=""></figure>
+                  <div class="team-card-content">
+                    <h2 class="team-card-title">თაზო მასხარაშვილი</h2>
+                    <p class="team-card-job">რაღაცა</p>
+                    <p class="team-card-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat itaque optio minus perferendis tempora, libero in fugiat, quisquam molestiae.</p>
+                    <ul class="team-card-social">
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <!-- ===== TEAM CARD ===== -->
+              <div class="col-lg-4 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-12 mb-40">
+                <div class="team-card">
+                  <figure class="team-card-image"><img src="assets/img/team/team-1.jpg" alt="" title=""></figure>
+                  <div class="team-card-content">
+                    <h2 class="team-card-title">სხვა</h2>
+                    <p class="team-card-job">რაღაცა</p>
+                    <p class="team-card-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat itaque optio minus perferendis tempora, libero in fugiat, quisquam molestiae.</p>
+                    <ul class="team-card-social">
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                      <li class="social-item"><a href="#" target="_blank"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </section>
+
+      <footer class="footer">
+
+			<!-- ===== FOOTER CONTENT INFORMATION ===== -->
+			<section class="section-positive">
+				<div class="container">
+
+					<div class="row mt-70 mb-30">
+
+						<!-- ===== SITEMAP ===== -->
+						<div class="col-sm-3 mb-40">
+							<h2 class="title-separator white">საიტის რუკა</h2>
+							<ul class="footer-list">
+								<li><a href="index.html">მთავარი</a></li>
+								<li><a href="podcasts.html">პოდკასტები</a></li>
+								<li><a href="about-us.html">ჩვენს შესახევ</a></li>
+								<li><a href="contact.html">კონტაქტი</a></li>
+							</ul>
+						</div>
+
+						<!-- ===== PODCASTS EPISODES ===== -->
+						<div class="col-sm-3 mb-40">
+							<h2 class="title-separator white">ბოლო ეპიზოდები</h2>
+							<ul class="footer-complement">
+								<li>
+									<a href="podcast.html">#08 - ილონ მასკი</a>
+									<span>7 დეკემბერი, 2017</span>
+								</li>
+								<li>
+									<a href="podcast.html">#07 - გიორგი ნიკურაძე</a>
+									<span>7 დეკემბერი, 2017 </span>
+								</li>
+							</ul>
+						</div>
+
+						<!-- ===== PODCASTS EPISODES ===== -->
+						<div class="col-sm-3 mb-40">
+							<h2 class="title-separator white">აქ რამე</h2>
+							<ul class="footer-complement">
+								<li>
+									<a href="#">რამე</a>
+								</li>
+								<li>
+									<a href="#">რამე</a>
+								</li>
+								<li>
+									<a href="#">რამე</a>
+								</li>
+							</ul>
+						</div>
+
+						<!-- ===== SOCIAL CONNECTION ===== -->
+						<div class="col-sm-3 mb-40">
+							<h2 class="title-separator white">სოც. ქსელები</h2>
+							<ul class="social-list">
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-youtube"></i></a></li>
+								<li class="social-item"><a href="#" target="_blank"><i class="fa fa-spotify"></i></a></li>
+							</ul>
+						</div>
+
+					</div>
+
+				</div>
+			</section>
+
+			<!-- ===== FOOTER INFORMATION ===== -->
+			<section class="footer-credits">
+				<div class="container">
+
+					<div class="row">
+
+						<!-- ===== CREDIT LOGO ===== -->
+						<div class="col-sm-6 footer-logo">
+							<h2><a href="index.html"><img src="/img/logo.png"></a></h2>
+						</div>
+
+						<!-- ===== CREDIT LOGO ===== -->
+						<div class="col-sm-6 text-right">
+							BTP - 2017
+						</div>
+
+					</div>
+
+				</div>
+			</section>
+
+		</footer>
+</body>
+</html>
